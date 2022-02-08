@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    // Activity Main
+    // Activity Main ()
     private TextView mainText;
     private Button changeTextButton;
     private Button returnTextButton;
